@@ -1,0 +1,53 @@
+header {
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+  padding: 20px;
+}
+
+.second-header {
+  background-color: #444;
+}
+
+.main-content {
+  width: 66%;
+  float: left;
+  padding: 20px;
+}
+
+.sidebar {
+  width: 33%;
+  float: left;
+  background-color: #ddd;
+  padding: 20px;
+}
+
+.sidebar nav ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.sidebar nav ul li a {
+  display: block;
+  padding: 10px;
+  color: #333;
+  text-decoration: none;
+}
+
+.advert {
+  width: 33%;
+  float: left;
+  padding: 20px;
+}
+
+.advert img {
+  width: 100%;
+  height: auto;
+}
+
+footer {
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+  padding: 20px;
+}
